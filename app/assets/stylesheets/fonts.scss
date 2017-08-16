@@ -54,12 +54,8 @@
 
 @font-face {
     font-family: 'quicksanditalic';
-    src: font_url('quicksand-italic-webfont.eot');
-    src: font_url('quicksand-italic-webfont.eot?#iefix') format('embedded-opentype');
-    src: font_url('quicksand-italic-webfont.ttf') format('truetype');
-    src: font_url('quicksand-italic-webfont.woff2') format('woff2');
-    src: font_url('quicksand-italic-webfont.woff') format('woff');
-    src: font_url('quicksand-italic-webfont.svg#quicksanditalic') format('svg');
+     src: font_url('quicksand-italic-webfont.woff2') format('woff2');
+     src: font_url('quicksand-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
